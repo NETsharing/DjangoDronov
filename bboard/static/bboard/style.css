@@ -1,0 +1,29 @@
+.page-header {
+    background-color: yellowgreen;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    /*background: url("bg.jpg") left/auto 100% no-repeat;*/
+}
+h1 {
+
+            font-size: 60pt;
+            text-transform : uppercase;
+            text-align: -webkit-left;
+            background: url("bg.jpg") right/auto 100% no-repeat;
+            }
+nav {
+    font-size: 10pt;
+    width: 150px;
+    float: left;
+}
+
+
+
+nav a {
+    display: block;
+    margin: 10px 0px;
+}
+
+section {
+    margin-left: 170px;
+}
